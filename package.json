@@ -12,7 +12,7 @@
     "prepublishOnly": "npm run build",
     "build": "npx tsc"
   },
-  "author": "Diccon Towns <diccon.towns@esgdatapoint.com>",
+  "author": "Diccon Towns <diccon.towns@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0",

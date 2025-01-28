@@ -7,7 +7,7 @@
  * @param fallback
  * @returns
  */
-const setPropertyByAddress = (
+export const setPropertyByAddress = (
   obj: Record<string, any>,
   address: string,
   value: any,

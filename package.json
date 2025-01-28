@@ -1,6 +1,6 @@
 {
   "name": "@dmc-towns/object-methods",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A pair of methods used to manipulate objects",
   "repository": "https://github.com/DMCTowns/ObjectMethods",
   "type": "module",

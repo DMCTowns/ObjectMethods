@@ -6,7 +6,7 @@
  * @param delimiter
  * @returns
  */
-const getPropertyByAddress = (
+export const getPropertyByAddress = (
   obj: Record<string, any>,
   address: string,
   fallback: any = null,

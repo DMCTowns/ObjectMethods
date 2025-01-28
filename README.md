@@ -1,6 +1,6 @@
 # Javascript Object Methods
 
-A pair of methods useful when manipulating nested objects
+A pair of methods used to manipulate nested objects
 
 ## Installation
 
@@ -25,7 +25,7 @@ let value = getPropertyByAddress(obj, 'a.b.c')
 
 console.log(value)
 
-// Outpput: 3
+// Output: 3
 ```
 
 ### Using a custom delimiter

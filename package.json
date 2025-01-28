@@ -1,12 +1,17 @@
 {
   "name": "@dmc-towns/object-methods",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A pair of methods used to manipulate objects",
   "repository": "https://github.com/DMCTowns/ObjectMethods",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "keywords": [
+    "object",
+    "hierarchy",
+    "nested object"
+  ],
   "scripts": {
     "test": "jest",
     "prepublishOnly": "npm run build",

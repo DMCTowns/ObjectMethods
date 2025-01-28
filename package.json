@@ -18,7 +18,7 @@
     "build": "npx tsc"
   },
   "author": "Diccon Towns <diccon.towns@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0",
     "ts-jest": "^29.2.5",
